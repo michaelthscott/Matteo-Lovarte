@@ -1,6 +1,6 @@
 # Matteo Lovarte
 
-![Michael's Eyes](Michael-Eyes.png)
+![Michael's Eyes](images/Michael-Eyes.png)
 
 Bundle of papers in a carrier bag
 
